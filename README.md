@@ -13,7 +13,7 @@ My Educantion: <br />
 See more at:
 <div>
   <a href="https://orcid.org/0000-0002-1972-0740" target="_blank"><img src="https://img.shields.io/badge/Orcid-100000?style=for-the-badge&logo=orcid&logoColor=Green&color=FFFFFF" target="_blank"></a>
-  <a href="http://lattes.cnpq.br/2548087616930722" target="_blank"><img src="https://img.shields.io/badge/Lattes-054f77?style=for-the-badge" target="_blank"></a>
+  <a href="http://lattes.cnpq.br/2548087616930722" target="_blank"><img src="https://img.shields.io/badge/Lattes CV-054f77?style=for-the-badge" target="_blank"></a>
 </div><br/>
 
 Contatc: 
