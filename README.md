@@ -5,6 +5,10 @@
 
 I specialize in machine learning and computational simulation, working on projects that involve developing novel models and applications. My expertise lies at the intersection of data science, artificial intelligence, and computer simulations.
 
+See more:
+<div>
+  <a href="https://orcid.org/0000-0002-1972-0740" target="_blank"><img src="https://img.shields.io/badge/Orcid-100000?style=for-the-badge&logo=orcid&logoColor=Green&color=FFFFFF" target="_blank"></a>
+</div>
 
 
 <!--
