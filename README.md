@@ -1,9 +1,14 @@
 ## Hi there 👋
 
-🔭 PhD Student in Agricultural Engineering at Federal University of Lavras <br />
-🔭 Master in System and Automation Engineering
+My name is Fernando Borges and I'm a PhD student and researcher. 
 
 I specialize in machine learning and computational simulation, working on projects that involve developing novel models and applications. My expertise lies at the intersection of data science, artificial intelligence, and computer simulations.
+
+
+My Educantion: <br />
+🔭 PhD Student in Agricultural Engineering at Federal University of Lavras (2023 - ) <br />
+🔭 Master in System and Automation Engineering at Federal University of Lavras <br />
+🔭 Bachelor in Control and Automation Engineering at Federal University of Lavras 
 
 See more at:
 <div>
